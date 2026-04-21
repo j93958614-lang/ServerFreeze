@@ -16,7 +16,7 @@ loop = asyncio.new_event_loop()
 
 # --- Configurations ---
 TOKEN = '7149714912:AAEeGl6cSo1IG3y6Tuf6aomE62Uoc5Xtqjw'
-ADMIN_ID = 7149714912  # Apna Admin ID yaha daalein
+ADMIN_ID = 5879540185  # Apna Admin ID yaha daalein
 CHANNEL_ID = -1003886707055
 USER_FILE = "users.txt"
 
