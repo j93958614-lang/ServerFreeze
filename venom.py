@@ -15,7 +15,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 loop = asyncio.new_event_loop()
 
 # --- Configurations ---
-TOKEN = '7149714912:AAEeGl6cSo1IG3y6Tuf6aomE62Uoc5Xtqjw'
+TOKEN = '7149714912:AAHXtwFHk5AZhXtxtWJEJ8x7s79YJnufb5w'
 ADMIN_ID = 5879540185  # Apna Admin ID yaha daalein
 CHANNEL_ID = -1003886707055
 USER_FILE = "users.txt"
